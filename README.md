@@ -77,7 +77,16 @@ int main() {
 }
 ```
 # OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-08-29 150617" src="https://github.com/user-attachments/assets/5d1644dc-d12a-448e-aded-ab785ae05641" />
+# Symbol Found
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 230250" src="https://github.com/user-attachments/assets/a0a72ccb-45f6-4df8-a0f2-52eec32afeb0" />
+
+
+
+# Symbol Not Found
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 230317" src="https://github.com/user-attachments/assets/9f40ddaa-2168-4745-8df0-916ba47e5256" />
+
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
