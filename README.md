@@ -79,13 +79,15 @@ int main() {
 # OUTPUT
 # Symbol Found
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-17 230250" src="https://github.com/user-attachments/assets/a0a72ccb-45f6-4df8-a0f2-52eec32afeb0" />
+<img width="844" height="437" alt="Screenshot 2025-09-18 151926" src="https://github.com/user-attachments/assets/5aa80e90-d845-4140-ad74-209c5ffcd947" />
+
 
 
 
 # Symbol Not Found
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-17 230317" src="https://github.com/user-attachments/assets/9f40ddaa-2168-4745-8df0-916ba47e5256" />
+<img width="837" height="427" alt="Screenshot 2025-09-18 151946" src="https://github.com/user-attachments/assets/3c62f0de-3b25-403e-a007-cff28b8558e5" />
+
 
 
 # RESULT
